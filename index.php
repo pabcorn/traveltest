@@ -28,8 +28,8 @@
         </form>
   </div>
 </nav>
-<div class="container"></div>
-<script src="js/jquery-3.3.1.min.js"></script>
+	
+<img src="รูปภาพ/banner.jpg" width="1600" height="900" alt=""/><script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/bootstrap-4.3.1.js"></script>
 </body>
