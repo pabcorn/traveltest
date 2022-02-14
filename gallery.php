@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>homepage</title>
+<title>Gallery</title>
 <link href="css/bootstrap-4.3.1.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -14,7 +14,7 @@
 	
 	
 <div class="container mt-5 mb-5">
-	<div class="row">
+	<div class="row mb-3">
 		<div class="card col-md-4 shadow">
 	  		<img class="card-img-top" src="images/card-img.png" alt="Card image cap">
     	</div>
